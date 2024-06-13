@@ -17,7 +17,7 @@ public class Main {
 	public static studentDao studentdao;
 
 	public static void main(String[] args) {
-		System.out.println("\t\t********** Student Managment System *************");
+		System.out.println("\t\t\n********** Student Managment System *************");
 
 		while (true) {
 			printMenu();
