@@ -1,2 +1,11 @@
 /bin/
 /target/
+*.class
+*.jar
+*.war
+*.ear
+/target/
+.classpath
+.project
+.settings/
+
